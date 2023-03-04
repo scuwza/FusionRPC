@@ -1,0 +1,3 @@
+kyro=com.wza.rpc.common.serialize.kyro.KryoSerializer
+protostuff=com.wza.rpc.common.serialize.protostuff.ProtostuffSerializer
+hessian=com.wza.rpc.common.serialize.hessian.HessianSerializer
